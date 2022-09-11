@@ -1,0 +1,18 @@
+{
+  "singup": [
+    {
+      "id": "1",
+      "fname": "nader",
+      "lname": "amama",
+      "email": "naderamama@gmail.com",
+      "password": "123"
+    },
+    {
+      "fname": "nader",
+      "lname": "mastour",
+      "email": "haythemnader",
+      "password": "3456789",
+      "id": "V420LsF"
+    }
+  ]
+}
